@@ -1,0 +1,23 @@
+{
+  "repo": "pingplotter-complete",
+  "product": "PingPlotter Complete",
+  "kind": "network",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "network-tools",
+  "topics": [
+    "pingplotter",
+    "pingplotter-windows",
+    "network-tools-desktop",
+    "how-to-install-pingplotter",
+    "pingplotter-desktop-package",
+    "pingplotter-workspace",
+    "pingplotter-pro-tools",
+    "pingplotter-suite",
+    "zentool-pingplotter",
+    "pingplotter-tool-9"
+  ],
+  "site": "zentool.art"
+}
